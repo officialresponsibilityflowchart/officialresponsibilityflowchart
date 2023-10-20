@@ -1,4 +1,4 @@
-I think I spend 20% of my workday actually solving problems and 80% of it waiting for permission to solve problems, because I don't know what I'm allowed to do. I want an Official Responsibility Flowchart. I want an authoritative document to describe whose job is whose so I can spend more time solving problems and less time waiting. 
+I think I spend 20% of my workday actually solving problems and 80% of it waiting for permission to solve problems, because I don't know what I'm allowed to do. Does anyone here know for sure? I want an Official Responsibility Flowchart. I want an authoritative document to describe whose job is whose so I can spend more time solving problems and less time waiting. 
 
 And I'm positive there are disagreements about it! That's fine! Let's debate it in a version control system. Let's make it legit.
 
